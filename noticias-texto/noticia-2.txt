@@ -1,0 +1,71 @@
+Canada is flattening the coronavirus curve. That’s ‘good news,’ expert explains
+
+Canadians have closed schools and shut down large parts of the economy to deal with the threat of the novel coronavirus.
+
+Encouragingly, public health experts say that a graph of positive tests shows that the sacrifice is working.
+
+“This is a good-news graph,” says Steven Hoffman of York University.
+
+“The good news is that it’s not a straight line and that it’s actually curving downwards, which is exactly what we would want to see. These lines don’t show that the outbreak is ending. The number of cases might be going up. It’s just not going up as fast as we would have expected in the absence of intervention.”
+
+The University of Toronto’s Ashleigh Tuite agrees.
+
+“Overall, it’s a positive graph,” she says. “All the provinces are bending — you want them to be as flat as possible. They are all headed in the right direction, which is a positive sign.”
+
+The graph above will continue to be updated as new data becomes available.
+
+Epidemiologists use graphs like this in part to see how long it takes infections to double — the longer the period, the better.
+
+“That’s just a convenient way to think about it: there’s nothing special about doubling,” Hoffman says.
+
+“You could also say how many days it it is before it gets 10 times bigger. It’s a helpful measure of the pace of what we’re trying to slow down. At this point, our focus is not on stopping the spread of an outbreak but slowing down how fast it spreads.”
+
+The graph below is identical to the graph above, except for the addition of reference lines. These lines allow you to compare provincial trends against common doubling rates.
+
+Doubling every two days, the dotted line on the left-hand side of the graph, would be a “very bad sign,” Hoffman says.
+
+“The average we’re seeing in the world is four and a half to five days per doubling. If we could get it down to a doubling every week or so, that would be better than the rest of the world and totally change the severity of the outbreak in a very good way.”
+
+Slowing the outbreak is crucial because it gives the medical system time to cope. If the number of cases becomes unmanageable at a given time, doctors are forced to make harsh choices.
+
+[ Sign up for our Health IQ newsletter for the latest coronavirus updates ]
+
+“The scary thing becomes when the curve goes above the system capacity because that’s when doctors have to start making resource allocation decisions, which are probably among the very worst decisions that anyone could ever have to make,” Hoffman says.
+
+Urgently, we need to measure the coronavirus as a problem, but every way we have to measure it has to be seen with an understanding of its flaws.
+
+Daily totals of cases (used in the charts above) seem like the most obvious and up-to-date number to look at. As a way of measuring the scale of the problem, though, these are distorted by the uneven availability of tests and the fact that some provinces test much more than others.
+
+Deaths and hospitalizations are in some ways better but can reflect infections that happened three or four weeks ago.
+
+The graph below shows the growth trend of COVID-19 deaths for each province with more than 30 deaths due to the illness.
+
+The numbers are crucial because we have few other tools to answer life-and-death questions, among them: is the huge dislocation caused by largely shutting down society helping to slow the virus, and if so, to what extent? If we were to reopen the economy, how would we know if that was the right decision?
+
+A sharp rise in positive cases could show that the problem is getting worse — or that our knowledge about it is getting better.
+
+“Normally, when you test more, you’re going to find more cases,” says the University of Toronto’s Colin Furness.
+
+“It would be even better if we tested more and didn’t. All you’re doing is saying: ‘There’s an iceberg out there.’ Some portion of the iceberg is visible, and we are measuring that. That doesn’t say anything about the iceberg — it simply quantifies what you can already see.”
+
+If we had the resources, Tuite says, we would ideally test people in a broad cross-section of society in a system somewhat like jury duty.
+
+Quebec has suffered more than the rest of Canada because of “bad luck,” Furness says.
+
+“They got some super-spreading, clearly. They got a big dose of virus-laden people. Sometimes, you only need a couple of people with lots of contact,” he says.
+
+“Their March break was a week early. The point at which, Canada-wide, we started closing schools and so forth, was a week too late for Quebec. If they’d just done it a week earlier, and if Ontario had done its stuff a week earlier — days matter.”
+
+Quebec also tested more extensively, Tuite explains.
+
+“If you look at the first five days since their 100th confirmed case, they have this very, very rapid growth in cases, and what that reflects is the fact that early on, they had a really large increase in testing that they were doing in their population. That gets to the messiness of the data,” she says.
+
+The Maritimes, on the other hand, have had a gentler time of it, at least so far.
+
+“When you look at the Atlantic provinces — New Brunswick, P.E.I. — they didn’t have bad luck, and part of that is that they don’t have big international airports, so there’s less opportunity to have bad luck, and they started closing stuff down when Ontario started closing stuff down,” Furness says. “Lo and behold, they’re kind of done. The spread never really happened.”
+
+At what point will the data tell us that can we start to lift restrictions? All the experts Global News talked to said there wasn’t a clear standard.
+
+“The reality is that it’s going to be trial and error, and I don’t think that putting a timeline on it is helpful,” Tuite says.
+
+“If you look at how rapidly the situation has changed — every week feels like a month, or longer, in terms of how things change. Our understanding changes of where we are in the epidemic curve.”
